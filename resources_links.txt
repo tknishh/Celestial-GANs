@@ -1,0 +1,3 @@
+https://neptune.ai/blog/6-gan-architectures
+
+https://blog.paperspace.com/complete-guide-to-gans/
