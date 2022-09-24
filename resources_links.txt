@@ -1,3 +1,5 @@
 https://neptune.ai/blog/6-gan-architectures
 
 https://blog.paperspace.com/complete-guide-to-gans/
+
+https://towardsdatascience.com/fulfillment-lies-in-the-creating-something-d118db307405
