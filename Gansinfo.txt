@@ -1,0 +1,19 @@
+Generative Adversarial Networks (GANs) were first introduced in 2014 by Ian Goodfellow
+
+With the invention of GANs, Generative Models had started showing promising results in generating realistic images. GANs has shown tremendous success in Computer Vision.
+
+Gan’s are interesting as they can learn to approximate data distribution(aka mimic real data)
+
+Generator, and a Discriminator.
+
+powerful as now it can generate images, audios clips, videos which do not exists in reality.
+
+Gan’s becomes better at creating data then it will also be able to understand the data which is present in the world much better then any other algorithms.
+
+it consists of two architectures a Discriminator which estimates the probability that the sample is real and a Generator which tries to generate data close to real one. With time the Discriminator gets better in discriminating and Generator gets better in generating samples that are more close to real samples
+
+The Goals of the two models are opposite as when Generator is maximizing the probability of Discriminator making a mistake at the same time Discriminator tries its best to predict the correct label either real or fake.
+
+GANs are usually trained in a self-supervised fashion, i.e. they use the unlabelled data as the supervisory signal. Note that some self-supervised learning methods are unsupervised learning techniques, given that no human-annotated data is needed.
+
+The generator learns to generate plausible data. The generated instances become negative training examples for the discriminator. The discriminator learns to distinguish the generator's fake data from real data.
